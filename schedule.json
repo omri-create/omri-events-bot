@@ -1,0 +1,1535 @@
+[
+  {
+    "name_he": "סמינר פתיחת שנה אופציה א'",
+    "date_start": "2026-09-30",
+    "date_end": "2026-09-30",
+    "category": "COUNCIL",
+    "category_label": "council event",
+    "reminder_offsets": [
+      "45_days"
+    ]
+  },
+  {
+    "name_he": "סמינר פתיחת שנה - מועד ב'",
+    "date_start": "2026-09-03",
+    "date_end": "2026-09-05",
+    "category": "COUNCIL",
+    "category_label": "council event",
+    "reminder_offsets": [
+      "45_days"
+    ]
+  },
+  {
+    "name_he": "טיול סוכות סמינר סוכות",
+    "date_start": "2026-09-22",
+    "date_end": "2026-09-24",
+    "category": "UNCLEAR",
+    "category_label": "movement program (unlabeled)",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "טיול סוכות",
+    "date_start": "2026-09-28",
+    "date_end": "2026-09-29",
+    "category": "UNCLEAR",
+    "category_label": "movement program (unlabeled)",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "סמינר רכזי.ות נוער",
+    "date_start": "2026-09-07",
+    "date_end": "2026-09-09",
+    "category": "HIS_RECURRING",
+    "category_label": "coordinators plenary (recurring)",
+    "reminder_offsets": [
+      "2_weeks",
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "לב התנועה",
+    "date_start": "2026-09-23",
+    "date_end": "2026-09-23",
+    "category": "HIS",
+    "category_label": "personal/recurring",
+    "reminder_offsets": [
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "המפעל לזכרו של יוסי יפה",
+    "date_start": "2026-09-28",
+    "date_end": "2026-09-30",
+    "category": "HIS",
+    "category_label": "personal/recurring",
+    "reminder_offsets": [
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "ראש השנה",
+    "date_start": "2026-09-11",
+    "date_end": "2026-09-13",
+    "category": "HOLIDAY",
+    "category_label": "holiday",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "יום כיפור",
+    "date_start": "2026-09-20",
+    "date_end": "2026-09-21",
+    "category": "HOLIDAY",
+    "category_label": "holiday",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "חלוץ פתיחת שנה ש\"ש",
+    "date_start": "2026-09-23",
+    "date_end": "2026-09-23",
+    "category": "UNCLEAR",
+    "category_label": "movement program (unlabeled)",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "טקס וטיול פתיחת שנה",
+    "date_start": "2026-09-24",
+    "date_end": "2026-09-24",
+    "category": "COUNCIL",
+    "category_label": "council event",
+    "reminder_offsets": [
+      "45_days"
+    ]
+  },
+  {
+    "name_he": "חג סוכות",
+    "date_start": "2026-09-25",
+    "date_end": "2026-09-30",
+    "category": "HOLIDAY",
+    "category_label": "holiday",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "הכנה יוסי יפה",
+    "date_start": "2026-10-07",
+    "date_end": "2026-10-09",
+    "category": "UNCLEAR",
+    "category_label": "movement program (unlabeled)",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "הכנה יוסי יפה",
+    "date_start": "2026-10-12",
+    "date_end": "2026-10-14",
+    "category": "HIS",
+    "category_label": "personal/recurring",
+    "reminder_offsets": [
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "המפעל לזכרו של יוסי יפה",
+    "date_start": "2026-10-26",
+    "date_end": "2026-10-28",
+    "category": "UNCLEAR",
+    "category_label": "movement program (unlabeled)",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "מליאת רכזי.ות נוער",
+    "date_start": "2026-10-04",
+    "date_end": "2026-10-04",
+    "category": "HIS_RECURRING",
+    "category_label": "coordinators plenary (recurring)",
+    "reminder_offsets": [
+      "2_weeks",
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "מליאת רכזי.ות נוער",
+    "date_start": "2026-10-11",
+    "date_end": "2026-10-11",
+    "category": "HIS_RECURRING",
+    "category_label": "coordinators plenary (recurring)",
+    "reminder_offsets": [
+      "2_weeks",
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "ז'-ח' דרום הכנת בוגרים",
+    "date_start": "2026-10-16",
+    "date_end": "2026-10-17",
+    "category": "COUNCIL",
+    "category_label": "council event",
+    "reminder_offsets": [
+      "45_days"
+    ]
+  },
+  {
+    "name_he": "מליאת רכזי.ות נוער",
+    "date_start": "2026-10-25",
+    "date_end": "2026-10-25",
+    "category": "HIS_RECURRING",
+    "category_label": "coordinators plenary (recurring)",
+    "reminder_offsets": [
+      "2_weeks",
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "חג סוכות",
+    "date_start": "2026-10-01",
+    "date_end": "2026-10-03",
+    "category": "HOLIDAY",
+    "category_label": "holiday",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "יום הזיכרון לאירועי שבעה באוקטובר",
+    "date_start": "2026-10-05",
+    "date_end": "2026-10-05",
+    "category": "HOLIDAY",
+    "category_label": "holiday",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "השתלמות רכזי.ות נוער",
+    "date_start": "2026-10-12",
+    "date_end": "2026-10-12",
+    "category": "HIS",
+    "category_label": "personal/recurring",
+    "reminder_offsets": [
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "יום הזיכרון ליצחק רבין",
+    "date_start": "2026-10-22",
+    "date_end": "2026-10-22",
+    "category": "HOLIDAY",
+    "category_label": "holiday",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "טיול בני.ות מצוה",
+    "date_start": "2026-10-23",
+    "date_end": "2026-10-23",
+    "category": "COUNCIL",
+    "category_label": "council event",
+    "reminder_offsets": [
+      "45_days"
+    ]
+  },
+  {
+    "name_he": "כנס ט' 1",
+    "date_start": "2026-10-30",
+    "date_end": "2026-10-30",
+    "category": "COUNCIL",
+    "category_label": "council event",
+    "reminder_offsets": [
+      "45_days"
+    ]
+  },
+  {
+    "name_he": "יוסי יפה",
+    "date_start": "2026-10-01",
+    "date_end": "2026-10-01",
+    "category": "HIS",
+    "category_label": "personal/recurring",
+    "reminder_offsets": [
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "כנס יב",
+    "date_start": "2026-10-08",
+    "date_end": "2026-10-08",
+    "category": "UNCLEAR",
+    "category_label": "movement program (unlabeled)",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "כנס י\"ב",
+    "date_start": "2026-10-23",
+    "date_end": "2026-10-23",
+    "category": "UNCLEAR",
+    "category_label": "movement program (unlabeled)",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "טיול חוג",
+    "date_start": "2026-10-29",
+    "date_end": "2026-10-30",
+    "category": "HIS",
+    "category_label": "personal/recurring",
+    "reminder_offsets": [
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "יוסי יפה",
+    "date_start": "2026-11-05",
+    "date_end": "2026-11-05",
+    "category": "UNCLEAR",
+    "category_label": "movement program (unlabeled)",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "כנס יב'",
+    "date_start": "2026-11-12",
+    "date_end": "2026-11-12",
+    "category": "HIS",
+    "category_label": "personal/recurring",
+    "reminder_offsets": [
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "אסיפה ישראלית",
+    "date_start": "2026-11-26",
+    "date_end": "2026-11-26",
+    "category": "HIS",
+    "category_label": "personal/recurring",
+    "reminder_offsets": [
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "מליאת רכזי.ות נוער",
+    "date_start": "2026-11-08",
+    "date_end": "2026-11-08",
+    "category": "HIS_RECURRING",
+    "category_label": "coordinators plenary (recurring)",
+    "reminder_offsets": [
+      "2_weeks",
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "ז'-ח' דרום",
+    "date_start": "2026-11-13",
+    "date_end": "2026-11-14",
+    "category": "COUNCIL",
+    "category_label": "council event",
+    "reminder_offsets": [
+      "45_days"
+    ]
+  },
+  {
+    "name_he": "מליאת רכזים.ות",
+    "date_start": "2026-11-22",
+    "date_end": "2026-11-22",
+    "category": "HIS_RECURRING",
+    "category_label": "coordinators plenary (recurring)",
+    "reminder_offsets": [
+      "2_weeks",
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "ז'-ח' דרום (אופציה ב')",
+    "date_start": "2026-11-27",
+    "date_end": "2026-11-28",
+    "category": "COUNCIL",
+    "category_label": "council event",
+    "reminder_offsets": [
+      "45_days"
+    ]
+  },
+  {
+    "name_he": "סמינר הערכה (יב)",
+    "date_start": "2026-11-27",
+    "date_end": "2026-11-28",
+    "category": "UNCLEAR",
+    "category_label": "movement program (unlabeled)",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "הכנה לטיולי חנוכה",
+    "date_start": "2026-11-03",
+    "date_end": "2026-11-06",
+    "category": "HIS",
+    "category_label": "personal/recurring",
+    "reminder_offsets": [
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "סמינר הנהגת אקלים",
+    "date_start": "2026-11-13",
+    "date_end": "2026-11-14",
+    "category": "HIS",
+    "category_label": "personal/recurring",
+    "reminder_offsets": [
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "י\"א - ויצ\"ו נהלל",
+    "date_start": "2026-11-16",
+    "date_end": "2026-11-21",
+    "category": "KVUTZA_TRIP",
+    "category_label": "kvutza annual trip",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks",
+      "1_week"
+    ]
+  },
+  {
+    "name_he": "י\"ב - עמקים תבור",
+    "date_start": "2026-11-23",
+    "date_end": "2026-11-26",
+    "category": "KVUTZA_TRIP",
+    "category_label": "kvutza annual trip",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks",
+      "1_week"
+    ]
+  },
+  {
+    "name_he": "י' - העמק המערבי",
+    "date_start": "2026-12-15",
+    "date_end": "2026-12-17",
+    "category": "KVUTZA_TRIP",
+    "category_label": "kvutza annual trip",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks",
+      "1_week"
+    ]
+  },
+  {
+    "name_he": "מסע יב' - תק\"צ",
+    "date_start": "2026-12-07",
+    "date_end": "2026-12-10",
+    "category": "COUNCIL",
+    "category_label": "council event",
+    "reminder_offsets": [
+      "45_days"
+    ]
+  },
+  {
+    "name_he": "סמינר התעוררת - מד\"צים.יות",
+    "date_start": "2026-12-17",
+    "date_end": "2026-12-18",
+    "category": "UNCLEAR",
+    "category_label": "movement program (unlabeled)",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "חופשת חנוכה",
+    "date_start": "2026-12-06",
+    "date_end": "2026-12-12",
+    "category": "HOLIDAY",
+    "category_label": "holiday",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "מליאת רכזים.ות",
+    "date_start": "2026-12-13",
+    "date_end": "2026-12-13",
+    "category": "HIS_RECURRING",
+    "category_label": "coordinators plenary (recurring)",
+    "reminder_offsets": [
+      "2_weeks",
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "מליאת רכזים.ות",
+    "date_start": "2026-12-27",
+    "date_end": "2026-12-27",
+    "category": "HIS_RECURRING",
+    "category_label": "coordinators plenary (recurring)",
+    "reminder_offsets": [
+      "2_weeks",
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "כנס חורף - השתלמות מדריכים י'-ייב",
+    "date_start": "2026-12-03",
+    "date_end": "2026-12-04",
+    "category": "HIS",
+    "category_label": "personal/recurring",
+    "reminder_offsets": [
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "טיול חנוכה",
+    "date_start": "2026-12-07",
+    "date_end": "2026-12-09",
+    "category": "UNCLEAR",
+    "category_label": "movement program (unlabeled)",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "י\"ב - ויצ\"ו נהלל",
+    "date_start": "2026-12-14",
+    "date_end": "2026-12-17",
+    "category": "KVUTZA_TRIP",
+    "category_label": "kvutza annual trip",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks",
+      "1_week"
+    ]
+  },
+  {
+    "name_he": "סמינר חנוכה",
+    "date_start": "2026-12-06",
+    "date_end": "2026-12-08",
+    "category": "UNCLEAR",
+    "category_label": "movement program (unlabeled)",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "פורום ש\"ש מועצתי",
+    "date_start": "2026-12-29",
+    "date_end": "2026-12-29",
+    "category": "UNCLEAR",
+    "category_label": "movement program (unlabeled)",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "בני.ות מצוה - התנדבות",
+    "date_start": "2026-12-06",
+    "date_end": "2026-12-06",
+    "category": "COUNCIL",
+    "category_label": "council event",
+    "reminder_offsets": [
+      "45_days"
+    ]
+  },
+  {
+    "name_he": "מסע מנהיגים וטיו נודד - ט' - יב'",
+    "date_start": "2026-12-07",
+    "date_end": "2026-12-10",
+    "category": "HIS",
+    "category_label": "personal/recurring",
+    "reminder_offsets": [
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "מסע חנוכה",
+    "date_start": "2026-12-07",
+    "date_end": "2026-12-10",
+    "category": "UNCLEAR",
+    "category_label": "movement program (unlabeled)",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "סמינר מגזר כפרי",
+    "date_start": "2027-01-06",
+    "date_end": "2027-01-07",
+    "category": "HIS_RECURRING",
+    "category_label": "coordinators plenary (recurring)",
+    "reminder_offsets": [
+      "2_weeks",
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "טיול בוץ",
+    "date_start": "2027-01-15",
+    "date_end": "2027-01-15",
+    "category": "COUNCIL",
+    "category_label": "council event",
+    "reminder_offsets": [
+      "45_days"
+    ]
+  },
+  {
+    "name_he": "טיול בוץ",
+    "date_start": "2027-01-22",
+    "date_end": "2027-01-22",
+    "category": "COUNCIL",
+    "category_label": "council event",
+    "reminder_offsets": [
+      "45_days"
+    ]
+  },
+  {
+    "name_he": "כנס ט'2",
+    "date_start": "2027-01-28",
+    "date_end": "2027-01-29",
+    "category": "COUNCIL",
+    "category_label": "council event",
+    "reminder_offsets": [
+      "45_days"
+    ]
+  },
+  {
+    "name_he": "השתלמות רכזי.ות נוער",
+    "date_start": "2027-01-03",
+    "date_end": "2027-01-04",
+    "category": "HIS",
+    "category_label": "personal/recurring",
+    "reminder_offsets": [
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "הכנה לפולין (יא)",
+    "date_start": "2027-01-07",
+    "date_end": "2027-01-09",
+    "category": "UNCLEAR",
+    "category_label": "movement program (unlabeled)",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "מליאת רכזים.ות",
+    "date_start": "2027-01-17",
+    "date_end": "2027-01-17",
+    "category": "HIS_RECURRING",
+    "category_label": "coordinators plenary (recurring)",
+    "reminder_offsets": [
+      "2_weeks",
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "טו בשבט",
+    "date_start": "2027-01-23",
+    "date_end": "2027-01-23",
+    "category": "HOLIDAY",
+    "category_label": "holiday",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "ט' - ויצ\"ו נהלל",
+    "date_start": "2027-01-26",
+    "date_end": "2027-01-28",
+    "category": "KVUTZA_TRIP",
+    "category_label": "kvutza annual trip",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks",
+      "1_week"
+    ]
+  },
+  {
+    "name_he": "טיול חורף",
+    "date_start": "2027-01-29",
+    "date_end": "2027-01-29",
+    "category": "HIS",
+    "category_label": "personal/recurring",
+    "reminder_offsets": [
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "מליאת רכזים.ות",
+    "date_start": "2027-01-31",
+    "date_end": "2027-01-31",
+    "category": "HIS_RECURRING",
+    "category_label": "coordinators plenary (recurring)",
+    "reminder_offsets": [
+      "2_weeks",
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "טיול מחצית - עמקים תבור",
+    "date_start": "2027-01-28",
+    "date_end": "2027-01-28",
+    "category": "KVUTZA_TRIP",
+    "category_label": "kvutza annual trip",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks",
+      "1_week"
+    ]
+  },
+  {
+    "name_he": "י\"א - העמק המערבי",
+    "date_start": "2027-02-09",
+    "date_end": "2027-02-11",
+    "category": "KVUTZA_TRIP",
+    "category_label": "kvutza annual trip",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks",
+      "1_week"
+    ]
+  },
+  {
+    "name_he": "סמינר מהפכה בהדרכה (י')",
+    "date_start": "2027-02-05",
+    "date_end": "2027-02-06",
+    "category": "UNCLEAR",
+    "category_label": "movement program (unlabeled)",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "כנס יא - תק\"צ",
+    "date_start": "2027-02-18",
+    "date_end": "2027-02-20",
+    "category": "COUNCIL",
+    "category_label": "council event",
+    "reminder_offsets": [
+      "45_days"
+    ]
+  },
+  {
+    "name_he": "הכנה לפולין (יא)",
+    "date_start": "2027-02-25",
+    "date_end": "2027-02-27",
+    "category": "UNCLEAR",
+    "category_label": "movement program (unlabeled)",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "מליאת רכזים.ות",
+    "date_start": "2027-02-14",
+    "date_end": "2027-02-14",
+    "category": "HIS_RECURRING",
+    "category_label": "coordinators plenary (recurring)",
+    "reminder_offsets": [
+      "2_weeks",
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "מליאת רכזים.ות",
+    "date_start": "2027-02-28",
+    "date_end": "2027-02-28",
+    "category": "HIS_RECURRING",
+    "category_label": "coordinators plenary (recurring)",
+    "reminder_offsets": [
+      "2_weeks",
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "י\"ב - העמק המערבי",
+    "date_start": "2027-02-01",
+    "date_end": "2027-02-04",
+    "category": "KVUTZA_TRIP",
+    "category_label": "kvutza annual trip",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks",
+      "1_week"
+    ]
+  },
+  {
+    "name_he": "טיול חורף",
+    "date_start": "2027-02-05",
+    "date_end": "2027-02-05",
+    "category": "HIS",
+    "category_label": "personal/recurring",
+    "reminder_offsets": [
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "השתלמות רכזי.ות נוער",
+    "date_start": "2027-02-08",
+    "date_end": "2027-02-08",
+    "category": "HIS",
+    "category_label": "personal/recurring",
+    "reminder_offsets": [
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "טיול חורף",
+    "date_start": "2027-02-18",
+    "date_end": "2027-02-20",
+    "category": "UNCLEAR",
+    "category_label": "movement program (unlabeled)",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "הכנת בוגרים ד'-ו",
+    "date_start": "2027-02-26",
+    "date_end": "2027-02-26",
+    "category": "COUNCIL",
+    "category_label": "council event",
+    "reminder_offsets": [
+      "45_days"
+    ]
+  },
+  {
+    "name_he": "י' - ויצ\"ו נהלל",
+    "date_start": "2027-02-16",
+    "date_end": "2027-02-18",
+    "category": "KVUTZA_TRIP",
+    "category_label": "kvutza annual trip",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks",
+      "1_week"
+    ]
+  },
+  {
+    "name_he": "שבוע דמוקרטיה בעמק",
+    "date_start": "2027-02-01",
+    "date_end": "2027-02-05",
+    "category": "COUNCIL",
+    "category_label": "council event",
+    "reminder_offsets": [
+      "45_days"
+    ]
+  },
+  {
+    "name_he": "מפעל גיל תיכון",
+    "date_start": "2027-02-11",
+    "date_end": "2027-02-13",
+    "category": "HIS",
+    "category_label": "personal/recurring",
+    "reminder_offsets": [
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "שבתון ארצי",
+    "date_start": "2027-02-19",
+    "date_end": "2027-02-20",
+    "category": "UNCLEAR",
+    "category_label": "movement program (unlabeled)",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "יא' - עמקים תבור",
+    "date_start": "2027-02-16",
+    "date_end": "2027-02-18",
+    "category": "KVUTZA_TRIP",
+    "category_label": "kvutza annual trip",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks",
+      "1_week"
+    ]
+  },
+  {
+    "name_he": "סמינר צמיחה - מד\"צים.יות",
+    "date_start": "2027-03-05",
+    "date_end": "2027-03-05",
+    "category": "UNCLEAR",
+    "category_label": "movement program (unlabeled)",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "ט' - עמקים תבור",
+    "date_start": "2027-03-31",
+    "date_end": "2027-03-31",
+    "category": "KVUTZA_TRIP",
+    "category_label": "kvutza annual trip",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks",
+      "1_week"
+    ]
+  },
+  {
+    "name_he": "פורום ש\"ש מועצתי",
+    "date_start": "2027-03-09",
+    "date_end": "2027-03-09",
+    "category": "UNCLEAR",
+    "category_label": "movement program (unlabeled)",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "ז' - העמק המערבי",
+    "date_start": "2027-03-10",
+    "date_end": "2027-03-11",
+    "category": "KVUTZA_TRIP",
+    "category_label": "kvutza annual trip",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks",
+      "1_week"
+    ]
+  },
+  {
+    "name_he": "מליאת רכזים.ות",
+    "date_start": "2027-03-14",
+    "date_end": "2027-03-14",
+    "category": "HIS_RECURRING",
+    "category_label": "coordinators plenary (recurring)",
+    "reminder_offsets": [
+      "2_weeks",
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "חג פורים",
+    "date_start": "2027-03-22",
+    "date_end": "2027-03-24",
+    "category": "HOLIDAY",
+    "category_label": "holiday",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "מליאת רכזים.ןת",
+    "date_start": "2027-03-28",
+    "date_end": "2027-03-28",
+    "category": "HIS_RECURRING",
+    "category_label": "coordinators plenary (recurring)",
+    "reminder_offsets": [
+      "2_weeks",
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "ז'-ויצ\"ו נהלל",
+    "date_start": "2027-03-31",
+    "date_end": "2027-03-31",
+    "category": "KVUTZA_TRIP",
+    "category_label": "kvutza annual trip",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks",
+      "1_week"
+    ]
+  },
+  {
+    "name_he": "הכנת מד\"צים ד' -ו/ הכנת נודט'",
+    "date_start": "2027-03-05",
+    "date_end": "2027-03-06",
+    "category": "COUNCIL",
+    "category_label": "council event",
+    "reminder_offsets": [
+      "45_days"
+    ]
+  },
+  {
+    "name_he": "כנס ט'",
+    "date_start": "2027-03-18",
+    "date_end": "2027-03-18",
+    "category": "COUNCIL",
+    "category_label": "council event",
+    "reminder_offsets": [
+      "45_days"
+    ]
+  },
+  {
+    "name_he": "בני.ות מצוה - סיור בירושלים",
+    "date_start": "2027-03-24",
+    "date_end": "2027-03-24",
+    "category": "COUNCIL",
+    "category_label": "council event",
+    "reminder_offsets": [
+      "45_days"
+    ]
+  },
+  {
+    "name_he": "ח' - ויצו נהלל",
+    "date_start": "2027-03-28",
+    "date_end": "2027-03-29",
+    "category": "KVUTZA_TRIP",
+    "category_label": "kvutza annual trip",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks",
+      "1_week"
+    ]
+  },
+  {
+    "name_he": "ט'- העמק המערבי",
+    "date_start": "2027-03-31",
+    "date_end": "2027-03-31",
+    "category": "KVUTZA_TRIP",
+    "category_label": "kvutza annual trip",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks",
+      "1_week"
+    ]
+  },
+  {
+    "name_he": "סמינר שורשים",
+    "date_start": "2027-03-05",
+    "date_end": "2027-03-06",
+    "category": "HIS",
+    "category_label": "personal/recurring",
+    "reminder_offsets": [
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "י' - עמקים תבור",
+    "date_start": "2027-03-09",
+    "date_end": "2027-03-11",
+    "category": "KVUTZA_TRIP",
+    "category_label": "kvutza annual trip",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks",
+      "1_week"
+    ]
+  },
+  {
+    "name_he": "ט' - עמקים תבור",
+    "date_start": "2027-04-01",
+    "date_end": "2027-04-01",
+    "category": "KVUTZA_TRIP",
+    "category_label": "kvutza annual trip",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks",
+      "1_week"
+    ]
+  },
+  {
+    "name_he": "המסע לפולין (יא)",
+    "date_start": "2027-04-13",
+    "date_end": "2027-04-19",
+    "category": "UNCLEAR",
+    "category_label": "movement program (unlabeled)",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "סיירים",
+    "date_start": "2027-04-23",
+    "date_end": "2027-04-26",
+    "category": "UNCLEAR",
+    "category_label": "movement program (unlabeled)",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "כנס מטוס לקראת פולין (יא)",
+    "date_start": "2027-04-01",
+    "date_end": "2027-04-01",
+    "category": "UNCLEAR",
+    "category_label": "movement program (unlabeled)",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "מליאת רכזים.ןת",
+    "date_start": "2027-04-04",
+    "date_end": "2027-04-04",
+    "category": "HIS_RECURRING",
+    "category_label": "coordinators plenary (recurring)",
+    "reminder_offsets": [
+      "2_weeks",
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "נודט'",
+    "date_start": "2027-04-13",
+    "date_end": "2027-04-15",
+    "category": "COUNCIL",
+    "category_label": "council event",
+    "reminder_offsets": [
+      "45_days"
+    ]
+  },
+  {
+    "name_he": "המסע לזכרו של ארז גרשטיין",
+    "date_start": "2027-04-18",
+    "date_end": "2027-04-20",
+    "category": "COUNCIL",
+    "category_label": "council event",
+    "reminder_offsets": [
+      "45_days"
+    ]
+  },
+  {
+    "name_he": "ערב חג  פסח",
+    "date_start": "2027-04-21",
+    "date_end": "2027-04-21",
+    "category": "HOLIDAY",
+    "category_label": "holiday",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "(יא) שכבת ז'- ויצ\"ו נהלל",
+    "date_start": "2027-04-01",
+    "date_end": "2027-04-01",
+    "category": "KVUTZA_TRIP",
+    "category_label": "kvutza annual trip",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks",
+      "1_week"
+    ]
+  },
+  {
+    "name_he": "הכנת מד\"צים ארז גרשטיין",
+    "date_start": "2027-04-02",
+    "date_end": "2027-04-03",
+    "category": "COUNCIL",
+    "category_label": "council event",
+    "reminder_offsets": [
+      "45_days"
+    ]
+  },
+  {
+    "name_he": "ח'-העמק המערבי",
+    "date_start": "2027-04-07",
+    "date_end": "2027-04-08",
+    "category": "KVUTZA_TRIP",
+    "category_label": "kvutza annual trip",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks",
+      "1_week"
+    ]
+  },
+  {
+    "name_he": "חלוץ ד-ו טיול אביב ד' - ו'",
+    "date_start": "2027-04-12",
+    "date_end": "2027-04-15",
+    "category": "COUNCIL",
+    "category_label": "council event",
+    "reminder_offsets": [
+      "45_days"
+    ]
+  },
+  {
+    "name_he": "סמינר הנהגת אקלים",
+    "date_start": "2027-04-30",
+    "date_end": "2027-04-30",
+    "category": "HIS",
+    "category_label": "personal/recurring",
+    "reminder_offsets": [
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "ט' - העמק המערבי",
+    "date_start": "2027-04-01",
+    "date_end": "2027-04-01",
+    "category": "KVUTZA_TRIP",
+    "category_label": "kvutza annual trip",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks",
+      "1_week"
+    ]
+  },
+  {
+    "name_he": "ח' - עמקים תבור",
+    "date_start": "2027-04-11",
+    "date_end": "2027-04-12",
+    "category": "KVUTZA_TRIP",
+    "category_label": "kvutza annual trip",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks",
+      "1_week"
+    ]
+  },
+  {
+    "name_he": "סמינר תיכון",
+    "date_start": "2027-04-15",
+    "date_end": "2027-04-17",
+    "category": "UNCLEAR",
+    "category_label": "movement program (unlabeled)",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "ז' - עמקים תבור",
+    "date_start": "2027-05-05",
+    "date_end": "2027-05-06",
+    "category": "KVUTZA_TRIP",
+    "category_label": "kvutza annual trip",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks",
+      "1_week"
+    ]
+  },
+  {
+    "name_he": "מיני מד\"צ צופי",
+    "date_start": "2027-05-21",
+    "date_end": "2027-05-22",
+    "category": "UNCLEAR",
+    "category_label": "movement program (unlabeled)",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "ערב הוקרה לצוותי ההדרכה",
+    "date_start": "2027-05-18",
+    "date_end": "2027-05-18",
+    "category": "COUNCIL",
+    "category_label": "council event",
+    "reminder_offsets": [
+      "45_days"
+    ]
+  },
+  {
+    "name_he": "מיני מד\"צים",
+    "date_start": "2027-05-21",
+    "date_end": "2027-05-22",
+    "category": "HIS",
+    "category_label": "personal/recurring",
+    "reminder_offsets": [
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "ערב ייום השואה והגבורה",
+    "date_start": "2027-05-03",
+    "date_end": "2027-05-03",
+    "category": "HOLIDAY",
+    "category_label": "holiday",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "ערב יום הזיכרון  יום העצמאות לחללי צה\"ל",
+    "date_start": "2027-05-10",
+    "date_end": "2027-05-12",
+    "category": "HOLIDAY",
+    "category_label": "holiday",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "מליאת רכזים.ות",
+    "date_start": "2027-05-16",
+    "date_end": "2027-05-16",
+    "category": "HIS_RECURRING",
+    "category_label": "coordinators plenary (recurring)",
+    "reminder_offsets": [
+      "2_weeks",
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "ל\"ג בעומר (אין חופש)",
+    "date_start": "2027-05-25",
+    "date_end": "2027-05-25",
+    "category": "HOLIDAY",
+    "category_label": "holiday",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "בגרות  בגרות במתמטיקה במתמטיקה",
+    "date_start": "2027-05-26",
+    "date_end": "2027-05-27",
+    "category": "KVUTZA_TRIP",
+    "category_label": "kvutza annual trip",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks",
+      "1_week"
+    ]
+  },
+  {
+    "name_he": "מליאת רכזים.ות",
+    "date_start": "2027-05-30",
+    "date_end": "2027-05-30",
+    "category": "HIS_RECURRING",
+    "category_label": "coordinators plenary (recurring)",
+    "reminder_offsets": [
+      "2_weeks",
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "השתלמות רכזי.ות נוער",
+    "date_start": "2027-05-31",
+    "date_end": "2027-05-31",
+    "category": "HIS",
+    "category_label": "personal/recurring",
+    "reminder_offsets": [
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "סמינר צמיחה - יב'",
+    "date_start": "2027-05-27",
+    "date_end": "2027-05-29",
+    "category": "HIS",
+    "category_label": "personal/recurring",
+    "reminder_offsets": [
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "בגרות באנגלית",
+    "date_start": "2027-06-01",
+    "date_end": "2027-06-01",
+    "category": "KVUTZA_TRIP",
+    "category_label": "kvutza annual trip",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks",
+      "1_week"
+    ]
+  },
+  {
+    "name_he": "סמינר קטיף -יב'",
+    "date_start": "2027-06-07",
+    "date_end": "2027-06-07",
+    "category": "HIS",
+    "category_label": "personal/recurring",
+    "reminder_offsets": [
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "מליאת רכזים.ות",
+    "date_start": "2027-06-13",
+    "date_end": "2027-06-13",
+    "category": "HIS_RECURRING",
+    "category_label": "coordinators plenary (recurring)",
+    "reminder_offsets": [
+      "2_weeks",
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "מליאת רכזים.ות",
+    "date_start": "2027-06-27",
+    "date_end": "2027-06-27",
+    "category": "HIS_RECURRING",
+    "category_label": "coordinators plenary (recurring)",
+    "reminder_offsets": [
+      "2_weeks",
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "פורום ש\"ש מועצתי",
+    "date_start": "2027-06-08",
+    "date_end": "2027-06-08",
+    "category": "UNCLEAR",
+    "category_label": "movement program (unlabeled)",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "סמינרי ט'",
+    "date_start": "2027-06-29",
+    "date_end": "2027-06-30",
+    "category": "HIS",
+    "category_label": "personal/recurring",
+    "reminder_offsets": [
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "חג שבועות",
+    "date_start": "2027-06-10",
+    "date_end": "2027-06-12",
+    "category": "HOLIDAY",
+    "category_label": "holiday",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "סמינרי ט'",
+    "date_start": "2027-07-01",
+    "date_end": "2027-07-07",
+    "category": "HIS",
+    "category_label": "personal/recurring",
+    "reminder_offsets": [
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "מד\"צ צופי",
+    "date_start": "2027-07-02",
+    "date_end": "2027-07-07",
+    "category": "UNCLEAR",
+    "category_label": "movement program (unlabeled)",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "מחנה גו\"ב - גו\"צ",
+    "date_start": "2027-07-11",
+    "date_end": "2027-07-17",
+    "category": "UNCLEAR",
+    "category_label": "movement program (unlabeled)",
+    "reminder_offsets": [
+      "1_month",
+      "2_weeks"
+    ]
+  },
+  {
+    "name_he": "חלוץ גיל תיכון והכנה לד'-ו' מחנה קיץ ד'-ו'",
+    "date_start": "2027-07-23",
+    "date_end": "2027-07-27",
+    "category": "HIS",
+    "category_label": "personal/recurring",
+    "reminder_offsets": [
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "מליאת רכזים.ות",
+    "date_start": "2027-07-04",
+    "date_end": "2027-07-04",
+    "category": "HIS_RECURRING",
+    "category_label": "coordinators plenary (recurring)",
+    "reminder_offsets": [
+      "2_weeks",
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "הכנת מד\"צים - מסע בעקבות לוחמים",
+    "date_start": "2027-07-14",
+    "date_end": "2027-07-16",
+    "category": "HIS",
+    "category_label": "personal/recurring",
+    "reminder_offsets": [
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "מסע בעקבות לוחמים",
+    "date_start": "2027-07-20",
+    "date_end": "2027-07-23",
+    "category": "HIS",
+    "category_label": "personal/recurring",
+    "reminder_offsets": [
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "מליאת רכזים.ות",
+    "date_start": "2027-08-15",
+    "date_end": "2027-08-15",
+    "category": "HIS_RECURRING",
+    "category_label": "coordinators plenary (recurring)",
+    "reminder_offsets": [
+      "2_weeks",
+      "3_days"
+    ]
+  },
+  {
+    "name_he": "סמינר פתיחת שנה",
+    "date_start": "2027-08-27",
+    "date_end": "2027-08-28",
+    "category": "COUNCIL",
+    "category_label": "council event",
+    "reminder_offsets": [
+      "45_days"
+    ]
+  }
+]

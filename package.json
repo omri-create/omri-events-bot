@@ -1,0 +1,20 @@
+{
+  "name": "omri-events-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Telegram bot that reminds Omri about upcoming Hashomer Hatzair / council events and drafts forward-ready messages in his voice.",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "remind": "node remind.js",
+    "set-webhook": "node scripts/set-webhook.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.1",
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
